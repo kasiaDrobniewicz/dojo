@@ -3,8 +3,8 @@ def introduce():
 introduce()
 
 
-def add(a, b):
+def add _2(a, b):
     c = a+b
     c = c+1
     print(c)
-add(1, 6)    
+add_2(5, 6)    
